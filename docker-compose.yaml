@@ -1,0 +1,5 @@
+services:
+  iris:
+    image: iris:latest
+    ports:
+      - "5000:5000"   
